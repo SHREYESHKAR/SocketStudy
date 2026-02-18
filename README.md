@@ -87,8 +87,7 @@ s.send("acknowledgement recived from the server".encode())
 
 ## OUTPUT :
 
-<img width="1807" height="977" alt="EE1" src="https://github.com/user-attachments/assets/0b960891-b683-4ef8-bc84-09040ccc61dc" />
-
+<img width="958" height="1138" alt="1a client" src="https://github.com/user-attachments/assets/ddd1baed-a500-4698-b041-79008480c912" />
 
 
 ## Result:
