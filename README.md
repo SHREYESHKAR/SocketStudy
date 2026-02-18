@@ -1,5 +1,8 @@
 # Ex.No:1a  			Study of Socket Programming
 
+## NAME : SHREYESHKAR SEKAR
+## REGISTER NUMBER : 212224220099
+
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -87,7 +90,8 @@ s.send("acknowledgement recived from the server".encode())
 
 ## OUTPUT :
 
-<img width="958" height="1138" alt="1a client" src="https://github.com/user-attachments/assets/ddd1baed-a500-4698-b041-79008480c912" />
+<img width="1918" height="1138" alt="1a ss" src="https://github.com/user-attachments/assets/582973aa-df3d-40b1-95da-9df4bcaf9fd4" />
+
 
 
 ## Result:
